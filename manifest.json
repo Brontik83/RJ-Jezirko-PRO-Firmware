@@ -1,9 +1,9 @@
 {
   "profile": "RJ_JEZIRKO_PRO_HW1",
-  "version": "2.0.17",
-  "filename": "Jezirko_PRO_2.0.17.bin",
-  "url": "https://github.com/Brontik83/RJ-Jezirko-PRO-Firmware/releases/download/v2.0.17/Jezirko_PRO_2.0.17.bin",
-  "sha256": "",
-  "key_id": "",
-  "notes": "Test online aktualizace RJ JEZIRKO PRO 2.0.17"
+  "version": "2.0.18",
+  "filename": "RJ_JEZIRKO_PRO_HW1_V2.0.18_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Jezirko-PRO-Firmware/releases/download/v2.0.18/RJ_JEZIRKO_PRO_HW1_V2.0.18_SIGNED.bin",
+  "sha256": "d0804115380dad9d30212b24bfa25dfb8cad6af9b0f4669670ac08e57be1caa3",
+  "key_id": "9A955362A5D1272C",
+  "notes": "Podepsaná aktualizace RJ Jezírko PRO 2.0.18"
 }
