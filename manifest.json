@@ -1,9 +1,9 @@
 {
   "profile": "RJ_JEZIRKO_PRO_HW1",
-  "version": "2.0.31",
-  "filename": "RJ_JEZIRKO_PRO_HW1_V2.0.31_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Jezirko-PRO-Firmware/releases/download/v2.0.31/RJ_JEZIRKO_PRO_HW1_V2.0.31_SIGNED.bin",
-  "sha256": "03a1b3d6ecc21bd4f1c7481e810dd19a006424832b24c45c4de40559bc8c9cf1",
+  "version": "2.1.1",
+  "filename": "RJ_JEZIRKO_PRO_HW1_V2.1.1_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Jezirko-PRO-Firmware/releases/download/v2.1.1/RJ_JEZIRKO_PRO_HW1_V2.1.1_SIGNED.bin",
+  "sha256": "9343f11db882d10e62b072e1b49be94eba91409e49b070ccc4f3575db1870521",
   "key_id": "9A955362A5D1272C",
-  "notes": "Aktualizace RJ Jezírko PRO 2.0.31"
+  "notes": "Aktualizace RJ Jezírko PRO 2.1.1"
 }
