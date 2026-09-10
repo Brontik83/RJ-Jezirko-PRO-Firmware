@@ -1,9 +1,10 @@
 {
   "profile": "RJ_JEZIRKO_PRO_HW1",
-  "version": "2.1.1",
-  "filename": "RJ_JEZIRKO_PRO_HW1_V2.1.1_SIGNED.bin",
-  "url": "https://raw.githubusercontent.com/Brontik83/RJ-Jezirko-PRO-Firmware/main/RJ_JEZIRKO_PRO_HW1_V2.1.1_SIGNED.bin",
-  "sha256": "9343f11db882d10e62b072e1b49be94eba91409e49b070ccc4f3575db1870521",
+  "version": "2.1.6",
+  "filename": "RJ_JEZIRKO_PRO_HW1_V2.1.6_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Jezirko-PRO-Firmware/releases/download/v2.1.6/RJ_JEZIRKO_PRO_HW1_V2.1.6_SIGNED.bin",
+  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Jezirko-PRO-Firmware/main/RJ_JEZIRKO_PRO_HW1_V2.1.6_SIGNED.bin",
+  "sha256": "ec27bda2fe20062bc8fe283f231d6c261176700fc17cb7837249dd6775ce6356",
   "key_id": "9A955362A5D1272C",
-  "notes": "TEST OTA pres raw.githubusercontent.com misto GitHub Release CDN"
+  "notes": "Finální verze: browser-assisted OTA, adaptivní samoučení, opravený časový plán, Telegram /plan a tovární nastavení."
 }
