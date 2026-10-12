@@ -1,10 +1,11 @@
 {
   "profile": "RJ_JEZIRKO_PRO_HW1",
-  "version": "2.1.6",
-  "filename": "RJ_JEZIRKO_PRO_HW1_V2.1.6_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Jezirko-PRO-Firmware/releases/download/v2.1.6/RJ_JEZIRKO_PRO_HW1_V2.1.6_SIGNED.bin",
-  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Jezirko-PRO-Firmware/main/RJ_JEZIRKO_PRO_HW1_V2.1.6_SIGNED.bin",
-  "sha256": "ec27bda2fe20062bc8fe283f231d6c261176700fc17cb7837249dd6775ce6356",
+  "version": "2.1.9",
+  "filename": "RJ_JEZIRKO_PRO_HW1_V2.1.9_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Jezirko-PRO-Firmware/releases/download/v2.1.9/RJ_JEZIRKO_PRO_HW1_V2.1.9_SIGNED.bin",
+  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Jezirko-PRO-Firmware/main/RJ_JEZIRKO_PRO_HW1_V2.1.9_SIGNED.bin",
+  "sha256": "ba49d977fb831ca797c7fa812719af4487d36f98b3068f0c0c0118ef77ba4fbc",
   "key_id": "9A955362A5D1272C",
-  "notes": "Finální verze: browser-assisted OTA, adaptivní samoučení, opravený časový plán, Telegram /plan a tovární nastavení."
+  "notes": "RJ Jezírko PRO 2.1.9: servisní režim s blokací čerpadla a pozastavením měření, browser-assisted OTA, adaptivní samoučení."
 }
+
