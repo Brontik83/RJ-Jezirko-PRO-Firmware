@@ -1,11 +1,11 @@
 {
   "profile": "RJ_JEZIRKO_PRO_HW1",
-  "version": "2.1.10",
-  "filename": "RJ_JEZIRKO_PRO_HW1_V2.1.10_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Jezirko-PRO-Firmware/releases/download/v2.1.10/RJ_JEZIRKO_PRO_HW1_V2.1.10_SIGNED.bin",
-  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Jezirko-PRO-Firmware/main/RJ_JEZIRKO_PRO_HW1_V2.1.10_SIGNED.bin",
-  "sha256": "a99301d21e5069e50c1c2373c074816587efdadfaadaf02287f5cd1234c67f12",
+  "version": "2.1.12",
+  "filename": "RJ_JEZIRKO_PRO_HW1_V2.1.12_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Jezirko-PRO-Firmware/releases/download/v2.1.12/RJ_JEZIRKO_PRO_HW1_V2.1.12_SIGNED.bin",
+  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Jezirko-PRO-Firmware/main/RJ_JEZIRKO_PRO_HW1_V2.1.12_SIGNED.bin",
+  "sha256": "6246f4e356cca814f4f3ef3c47cd5bcac5b9acdc20f0342f9bbced8779ee3b42",
   "key_id": "9A955362A5D1272C",
-  "notes": "RJ Jezírko PRO 2.1.10: stavová tlačítka MANUAL, bezpečné časové plány s NTP, běh času při výpadku Wi-Fi, hodinová resynchronizace NTP a barevné stavové indikace."
+  "notes": "RJ Jezírko PRO 2.1.12: oprava kompatibility ESP8266 Core 3.1.2 pro collectHeaders(), ochrana webu přes domácí Wi-Fi/LAN, zapamatování zařízení až 180 dní, odhlášení zařízení a zachování funkcí 2.1.10."
 }
 
